@@ -35,3 +35,25 @@
 | ✅   | 2022 | [FAST22 - 《DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels》](https://www.usenix.org/conference/fast22/presentation/bacs) | deduplication 会在时间域上有泄漏数据的风险 |     |
 |     |      |                                                                                                                                                            |                              |     |
 
+
+
+
+
+
+
+
+
+### 分布式
+
+| 已读 | 年份 |                             论文                             |              简介              | 代码 |
+| :--: | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+|  ✅   | 2003 | [The Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf) |              GFS               |      |
+|  ✅   | 2004 | [MapReduce: Simplified Data Processing on Large Clusters]()  |           map reduce           |      |
+|      | 2010 | [The Design of a Pratical System for Fault-Tolerant Virtual Machines](https://dl.acm.org/doi/10.1145/1899928.1899932) |       Fault-Tolerant VM        |      |
+|      | 2011 | [Paxos Replicated State Machines as the Basis of a High-Performance Data Store](https://dl.acm.org/doi/10.5555/1972457.1972472#:~:text=We%20demonstrate%20that%20a%20Paxos,limited%20set%20of%20Byzantine%20faults.) | Paxos Replicated State Machine |      |
+|  ✅   | 2014 | [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf) |    Raft (Extended Version)     |      |
+
+
+
+
+
